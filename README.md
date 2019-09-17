@@ -10,12 +10,12 @@
 - 第三点是，文章的本意在于提供更多的课程信息，用于改善本科规划；建议大家多花时间从中收集、思考出有用信息，而非吹嘘或者贬低文章。
 - 第四点是，文章多少涉及谈论老师的内容，出现恶意之处请指正。
 
-如果大家想了解这个仓库，可以到 [Wiki栏](https://github.com/Sampson-Lee/words-for-scutee/wiki) 查看四篇文章：
+如果大家想了解这个仓库，可以到 [Wiki栏](https://github.com/Sampson-Lee/SCUT_EE_Training/wiki) 查看四篇文章：
 
-- [简介](https://github.com/Sampson-Lee/words-for-scutee/wiki/1.-%E7%AE%80%E4%BB%8B)：大致介绍整个仓库创建的过程和展望
-- [网络](https://github.com/Sampson-Lee/words-for-scutee/wiki/2.-%E7%BD%91%E7%BB%9C)：分享ipv6的使用和科学上网
-- [资料](https://github.com/Sampson-Lee/words-for-scutee/wiki/3.-%E8%B5%84%E6%96%99)：仓库会提供大学前三年的学业资料
-- [建设](https://github.com/Sampson-Lee/words-for-scutee/wiki/4.-%E5%BB%BA%E8%AE%BE)：期盼有心的朋友按照其中方法共同建设仓库
+- [简介](https://github.com/Sampson-Lee/SCUT_EE_Training/wiki/1-%E7%AE%80%E4%BB%8B)：大致介绍整个仓库创建的过程和展望
+- [网络](https://github.com/Sampson-Lee/SCUT_EE_Training/wiki/2-%E7%BD%91%E7%BB%9C)：分享ipv6的使用和科学上网
+- [资料](https://github.com/Sampson-Lee/SCUT_EE_Training/wiki/3-%E8%B5%84%E6%96%99)：仓库会提供大学前三年的学业资料
+- [建设](https://github.com/Sampson-Lee/SCUT_EE_Training/wiki/4-%E5%BB%BA%E8%AE%BE)：期盼有心的朋友按照其中方法共同建设仓库
 
 
 该系列文章会持续更新，如果您有更好的见解或者更好的资料愿意分享，或者有疑问和需要帮助的地方，不妨直接*issue*或者与我联系，我的邮箱是：*li.xin.peng@qq.com*
