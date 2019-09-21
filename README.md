@@ -10,6 +10,7 @@
 - 第三点是，文章的本意在于提供更多的课程信息，用于改善本科规划；建议大家多花时间从中收集、思考出有用信息，而非吹嘘或者贬低文章。
 - 第四点是，文章多少涉及谈论老师的内容，出现恶意之处请指正。
 
+
 如果大家想了解这个仓库，可以到 [Wiki栏](https://github.com/Sampson-Lee/SCUT_EE_Training/wiki) 查看四篇文章：
 
 - [简介](https://github.com/Sampson-Lee/SCUT_EE_Training/wiki/1-%E7%AE%80%E4%BB%8B)：大致介绍整个仓库创建的过程和展望
