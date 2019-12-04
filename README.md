@@ -15,7 +15,7 @@
 
 - [简介](https://github.com/Sampson-Lee/SCUT_EE_Training/wiki/1-%E7%AE%80%E4%BB%8B)：大致介绍整个仓库创建的过程和展望
 - [网络](https://github.com/Sampson-Lee/SCUT_EE_Training/wiki/2-%E7%BD%91%E7%BB%9C)：分享ipv6的使用和科学上网
-- [资料](https://github.com/Sampson-Lee/SCUT_EE_Training/wiki/3-%E8%B5%84%E6%96%99)：仓库会提供大学前三年的学业资料
+- [资料](https://github.com/Sampson-Lee/SCUT_EE_Training/wiki/3-%E8%B5%84%E6%96%99)：仓库会提供大学前三年的学业资料，新加研究生课程和多门学科的培养计划，共8个文件夹
 - [建设](https://github.com/Sampson-Lee/SCUT_EE_Training/wiki/4-%E5%BB%BA%E8%AE%BE)：期盼有心的朋友按照其中方法共同建设仓库
 
 
