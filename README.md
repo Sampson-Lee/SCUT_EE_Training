@@ -19,7 +19,7 @@
 - [建设](https://github.com/Sampson-Lee/SCUT_EE_Training/wiki/4-%E5%BB%BA%E8%AE%BE)：期盼有心的朋友按照其中方法共同建设仓库
 
 
-该系列文章会持续更新，如果您有更好的见解或者更好的资料愿意分享，或者有疑问和需要帮助的地方，不妨直接*issue*或者与我联系，我的邮箱是：*li.xin.peng@qq.com*
+该系列文章会持续更新，如果您有更好的见解或者更好的资料愿意分享，或者有疑问和需要帮助的地方，不妨直接*issue*或者与我联系，我的邮箱是：*li.xin.peng@outlook.com*
 
 
 ## :kissing_heart:致谢:kissing_heart:
